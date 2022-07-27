@@ -8,4 +8,7 @@ return require('packer').startup(function(use)
   use 'wbthomason/packer.nvim'
   use 'folke/tokyonight.nvim'
   use 'akinsho/toggleterm.nvim'
+  use 'kyazdani42/nvim-web-devicons'
+  use 'akinsho/bufferline.nvim'
+  use 'moll/vim-bbye'
 end)
